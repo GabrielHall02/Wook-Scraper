@@ -18,6 +18,8 @@ A python web scrapper for work.pt that gets informations for a given book identi
 
 > You will have a folder named `/images` where the book images will be downloaded to.
 
+> A loggin file will also be created. So as a file with all the books that failed.
+
 ## DISCLAIMER 
 This code is harmless. 
 You will be 100% responsible for the usage of the information you get.
