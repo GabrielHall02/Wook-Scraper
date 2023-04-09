@@ -1,0 +1,12 @@
+.DS_Store
+/venv/
+/__pycache__/
+logs.log
+utils/watermark.png
+output/failed.txt
+output/output.csv
+input/isbn.csv
+input/isbn2.csv
+images/*.jpg
+utils/proxies.txt
+
