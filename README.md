@@ -5,13 +5,13 @@ A python web scrapper for work.pt that gets informations for a given book identi
 
 ## How to run
 
-1 - Create folders `/input`, `/output` 
-2 - Create file `input.csv`. This file should be in the input folder and have only one column named isbn
-3 - Create file watermark.png and save it to the utils folder if you want to have something on top of the right bottom corner that isn't just a triangle.
-4 - Create file `proxies.txt` and populate it. This file should be in the `/utils` folder
-5 - Create virtual environment `python -m venv venv`
-6 - Install requirements `pip install -r requirements.txt`
-7 - run `python main.py`
+- Create folders `/input`, `/output` 
+- Create file `input.csv`. This file should be in the input folder and have only one column named isbn
+- Create file watermark.png and save it to the utils folder if you want to have something on top of the right bottom corner that isn't just a triangle.
+- Create file `proxies.txt` and populate it. This file should be in the `/utils` folder
+- Create virtual environment `python -m venv venv`
+- Install requirements `pip install -r requirements.txt`
+- run `python main.py`
 
 
 > You will have a folder named `/output` where a csv file will be created with the information about the book.
