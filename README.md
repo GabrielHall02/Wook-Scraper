@@ -14,8 +14,9 @@ A python web scrapper for work.pt that gets informations for a given book identi
 7 - run `python main.py`
 
 
-> You will have a folder named `/output` where a csv file will be created with the information about the book
-> You will have a folder named `/images` where the book images will be downloaded to
+> You will have a folder named `/output` where a csv file will be created with the information about the book.
+
+> You will have a folder named `/images` where the book images will be downloaded to.
 
 ## DISCLAIMER 
 This code is harmless. 
